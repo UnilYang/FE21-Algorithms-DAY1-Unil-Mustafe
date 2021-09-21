@@ -1,0 +1,6 @@
+Enter the intenger number -> 2000000 senconds
+the intenger number should be divided with number 2,592,000 -> it should be displayed WW weeks.
+the remainder of WW weeks should be divided with number 86,400 -> it should be displayed DD days.
+the remainder of DD days should be divided with number 3,600 -> it should be displayed HH hours.
+the remainder of HH days should be devided with number 60 -> it should be displayed MM minutes
+The output is 3 weeks 2 days 3 hours 33 minutes and 20 seconds -> it should be displayed WW weeks DD days HH hours MM minutes 

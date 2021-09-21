@@ -1,0 +1,17 @@
+Start
+computer shows -> Let's play with me
+man gives Enter
+computer takes random number from 1 to 100
+computer shows 'Please input a number from 1 to 100
+
+
+if the input number is lower than random number from computer,
+it shows “My number is higher than N, guess again higher!”
+if the input number is higher than random number from computer,
+it shows “My number is lower than N, guess again lower!”
+
+until the input number is equal of computer's random number
+
+if the input number is a correct number, then it shows “You are correct - the random number is N”
+
+End.

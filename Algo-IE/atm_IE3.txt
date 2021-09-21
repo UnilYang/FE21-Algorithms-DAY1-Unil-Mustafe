@@ -1,0 +1,21 @@
+
+a)
+Select withdraw
+it displays "please enter the amount"
+input amount and enter -> value = intenger (280 Euro)
+display note -> 2 note x 100 Euro, 1 note x 50 Euro, 1 note x 20 Euro, 1 note x 10 Euro
+select 'OK' -> End
+
+b)
+Select withdraw
+it displays "please enter the amount"
+input amount and enter -> value = intenger (60 Euro)
+display -> “60 EUR is not possible, I do not have 10 EUR notes at this moment”
+select 'Continue' or 'Close'
+Continue displays -> 3 note x 20 Euro
+select 'OK' -> End
+
+c)
+The ATM machine should send a message to bank in order to be refilled.
+if total 500 Euro (3 note x 100 Euro, 2 note x 50 Euro, 3 note x 20 Euro, 4 note x 10 Euro).
+
